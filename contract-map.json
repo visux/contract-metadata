@@ -3225,5 +3225,12 @@
     "erc20": true,
     "symbol": "COR",
     "decimals": 18
+  },
+  "0xce659de292ad4fa9aafd82b038936cebd9291e77": {
+    "name": "Sonic Token",
+    "logo": "sonic.svg",
+    "erc20": true,
+    "symbol": "SON",
+    "decimals": 18
   }
 }
